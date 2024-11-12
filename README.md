@@ -5,3 +5,7 @@ You will be prompted to convert either way and include decimal place conversion 
 This was my first project created around 2021. It was created alongside with binary-to-octal converter and binary-to-hexadecimal converter.
 
 **To run the file**: `python 2-10decimal.py`
+
+### See similar projects: 
+- [Binary-to-Hexadecimal Converter] (https://github.com/Justin-Liao23-e/Binary-to-Hexadecimal-Converter)
+- [Binary-to-Octal Converter] (https://github.com/Justin-Liao23-e/Binary-to-Octal-Converter)
